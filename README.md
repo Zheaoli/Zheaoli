@@ -1,4 +1,4 @@
-### Hi there 👋
+### Manjusaka 的碎碎念
 
 <!--
 **Zheaoli/Zheaoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我还没想好搞些什么，先挂在这吧
