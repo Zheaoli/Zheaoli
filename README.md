@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Zheaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zheaoli&count_private=true&include_all_commits=true)
+![Zheaoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zheaoli&count_private=true)
 
 我还没想好搞些什么，先挂在这吧
